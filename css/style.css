@@ -3,7 +3,7 @@ main {
 }
 
 body {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Geneva,Verdana, Tahoma, sans-serif;
 }
 
 .perfil
@@ -25,7 +25,7 @@ body {
 .pessoal {
     background-color: #000000;
     /*cor de fundo*/
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Geneva, Verdana, Tahoma, sans-serif;
     /*fontes que podem ser utilizadas na div "pessoal", coloca-se várias porque nem sempre a primeira fonte pode ser usada pelo navegador, ai o navegador carrega a próxima fonte da esquerda para a direita*/
     color: white;
     /*cor da letra*/
@@ -38,7 +38,7 @@ body {
 .geral {
     width: 75%;
     float: left;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Geneva, Verdana, Tahoma, sans-serif;
 }
 
 .nome {
@@ -61,7 +61,7 @@ body {
 .habilidades {
     font-size: 20px;
     font-weight: bold;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: Geneva, Verdana, Tahoma, sans-serif;
     padding-left: 30px;
 }
 
@@ -74,6 +74,6 @@ body {
 a {
     text-decoration: none;
     /*tirei o sublinhado dos links*/
-    color: rgb(192, 191, 191);
+    color: rgb(255, 0, 0);
     /*mudei a cor da letra dos links*/
 }
