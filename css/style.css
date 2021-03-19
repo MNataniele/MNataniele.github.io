@@ -58,6 +58,13 @@ body {
     color: #008000;
 }
 
+.habilidades {
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 30px;
+}
+
 a {
     text-decoration: none;
     /*tirei o sublinhado dos links*/
