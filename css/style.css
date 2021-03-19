@@ -43,7 +43,7 @@ body {
 
 .nome {
     color: #FF0000;
-    font-size: 80px;
+    font-size: 40px;
     /*tamanho da letra*/
     padding-left: 30px;
     /*padding dá um espaço da margem da div/bloco, vc pode usar ele como padding-left/-right/-top/-bottom (esquerda, direita, cima e embaixo, respectivamente.*/
