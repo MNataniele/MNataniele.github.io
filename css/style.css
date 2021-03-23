@@ -58,6 +58,17 @@ body {
     color: #008000;
 }
 
+footer {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    border-top: 1px solid black; 
+    position: bottom;
+    bottom: 0;
+    width: 100%;
+}
+
 .habilidades {
     font-size: 15px;
     font-weight: bold;
