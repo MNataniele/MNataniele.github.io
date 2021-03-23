@@ -58,6 +58,13 @@ body {
     color: #008000;
 }
 
+.habilidades {
+    font-size: 15px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 30px;
+}
+
 footer {
     display: flex;
     justify-content: center;
@@ -69,11 +76,8 @@ footer {
     width: 100%;
 }
 
-.habilidades {
-    font-size: 15px;
-    font-weight: bold;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    padding-left: 30px;
+.geral hr {
+    width: 95%;
 }
 
 a {
