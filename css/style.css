@@ -66,14 +66,14 @@ body {
 }
 
 footer {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 60px;
-    border-top: 1px solid black; 
-    position: bottom;
-    bottom: 0;
-    width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  border-top: 1px solid #eee;
+  height: 60px;
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 .geral hr {
