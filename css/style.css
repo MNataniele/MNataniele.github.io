@@ -6,33 +6,20 @@ body {
     font-family: Tahoma, Verdana, Geneva, sans-serif;
 }
 
-.perfil
-/*no HTML classe="perfil" então no CSS ".perfil", no HTML id="perfil" então no CSS #perfil */
-
-{
+.perfil {
     border-radius: 50%;
-    /*deixa a imagem em círculo arredondando as bordas dela*/
     width: 200px;
-    /*largura da foto*/
     height: 200px;
-    /*altura da foto*/
     border: black solid 1px;
-    /*borda em volta da foto com cor preta, o solid serve pra borda aparecer e 1px é a finura da borda*/
     margin-top: 25px;
-    /*margem de cima (partindo da parte de cima da div no caso)*/
 }
 
 .pessoal {
     background-color: #000000;
-    /*cor de fundo*/
     font-family: Tahoma, Verdana, Geneva, sans-serif;
-    /*fontes que podem ser utilizadas na div "pessoal", coloca-se várias porque nem sempre a primeira fonte pode ser usada pelo navegador, ai o navegador carrega a próxima fonte da esquerda para a direita*/
     color: white;
-    /*cor da letra*/
     width: 25%;
-    /*largura da div*/
     float: right;
-    /*faz a div ficar "flutuando" à esquerda*/
 }
 
 .geral {
@@ -44,16 +31,13 @@ body {
 .nome {
     color: #FF0000;
     font-size: 30px;
-    /*tamanho da letra*/
     padding-left: 30px;
-    /*padding dá um espaço da margem da div/bloco, vc pode usar ele como padding-left/-right/-top/-bottom (esquerda, direita, cima e embaixo, respectivamente.*/
     height: 20px;
 }
 
 .titulo {
     padding-left: 30px;
     font-weight: bold;
-    /*esse foi pra deixar a letra em negrito*/
     font-size: 20px;
     color: #008000;
 }
@@ -82,7 +66,5 @@ footer {
 
 a {
     text-decoration: none;
-    /*tirei o sublinhado dos links*/
     color: rgb(255, 0, 0);
-    /*mudei a cor da letra dos links*/
 }
